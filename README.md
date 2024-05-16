@@ -41,6 +41,25 @@ Rock Paper Scissors Game in HTML CSS & JavaScript.
 ![Screenshot 2024-05-16 202349](https://github.com/verma2209/JavaScript-Projects/assets/119332108/01f53755-2c0e-4779-a849-d3563a8e1abe)
 
 
+ # Coming Soon Website
+
+ Coming Soon Website using HTML CSS & JavaScript.The website's time will be continuously updated every single second.
+
+
+ ![Screenshot 2024-05-16 202628](https://github.com/verma2209/JavaScript-Projects/assets/119332108/cbb9636b-87b5-4973-9e39-12d590ad34e8)
+
+
+
+ # create star rating
+
+ Create star rating system in HTML CSS, and JavaScript. The star rating can be adjusted by clicking on the stars and selecting the desired number of stars in out of 5.
+
+
+ 
+![Screenshot 2024-05-16 203129](https://github.com/verma2209/JavaScript-Projects/assets/119332108/25471dd3-ad22-4925-9900-b99f016a3151)
+
+
+
 
 
 
