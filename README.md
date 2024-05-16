@@ -31,3 +31,17 @@ Rock Paper Scissors Game in HTML CSS & JavaScript.
 
 
 
+# Stopwatch Application
+
+ I have created a stopwatch timer using HTML CSS and JavaScript.
+
+ ![Screenshot 2024-05-16 202251](https://github.com/verma2209/JavaScript-Projects/assets/119332108/6714fd43-f021-4a19-92b2-5b4c5a46379a)
+
+
+![Screenshot 2024-05-16 202349](https://github.com/verma2209/JavaScript-Projects/assets/119332108/01f53755-2c0e-4779-a849-d3563a8e1abe)
+
+
+
+
+
+
